@@ -1,0 +1,114 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1558346648-9757f2fa4474?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80");
+}
+nav {
+  margin-left: 100px;
+}
+nav a {
+  font-size: 30px;
+}
+img {
+  border-radius: 60%;
+  opacity: 0.8;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+.intro-section {
+  display: inline-flex;
+  margin: 50px;
+}
+.intro {
+  margin-top: 30px;
+}
+.cursive {
+  font-size: 2rem;
+  font-family: cursive;
+}
+h1,
+h3 {
+  font-family: fantasy;
+  font-size: 3rem;
+}
+.info,
+li {
+  font-family: fantasy;
+  font-size: 1.25rem;
+}
+.exp-ed-section {
+  display: inline-flex;
+  margin-top: 100px;
+}
+ul {
+  list-style: none;
+}
+.experience-section,
+.education-section,
+.skills-section,
+.interests-section,
+.contact-info,
+.contact-form {
+  width: 40vw;
+  margin-left: 50px;
+  box-shadow: 5px 5px 10px;
+  background-color: white;
+  text-align: center;
+}
+.projects-section {
+  box-shadow: 5px 5px 10px;
+  width: 85vw;
+  background-color: white;
+  margin: 50px;
+  text-align: center;
+  align-items: center;
+}
+.projects-section h3 {
+  padding-top: 50px;
+}
+button {
+  width: 20vw;
+  padding: 10px;
+  border-spacing: 15px;
+  box-shadow: 3px 3px 7px;
+}
+table {
+  border-spacing: 10px 20px;
+}
+a {
+  font-size: 16px;
+  text-decoration: none;
+  font-family: fantasy;
+  color: black;
+}
+.skills-interests,
+.contact-section {
+  display: inline-flex;
+  font-size: 1.5rem;
+  margin: 20px;
+}
+.skills-section,
+.interests-section {
+  background-color: #565656;
+  color: white;
+}
+.footer {
+  background-color: #565656;
+  color: white;
+  height: 20vh;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 16px;
+}
+.footer i {
+  color: white;
+  margin: 20px;
+}
+i {
+  margin: 15px;
+}
+.contact-form {
+  padding: 20px;
+  align-items: center;
+}
+.contact-info button {
+  margin: 20px;
+}
